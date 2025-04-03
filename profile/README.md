@@ -11,11 +11,6 @@
  
 ## Навигация по проекту
 
-### Сервисы
-
-- [YouGile](https://ru.yougile.com/team/a0f86d00369f/ProTalk) - таск-трекер
-- [Figma](https://www.figma.com/design/MJG7PCYO5oUsu6OQ3AAewU/%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D1%8B?node-id=0-1&t=zrsIh3gRhjGnsUdL-1) - Wireframes проекта
-
 ### Документация
 ## 🔗 Полезные ссылки
 ### 📌 Ссылки на сервисы
